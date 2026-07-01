@@ -3,6 +3,9 @@
 ## Project Description
 A website where students can buy and sell used items within the campus.
 
+## Objective 
+Help students buy and sell items within campus
+
 ## Features
 - Home Page
 - Login & Register
