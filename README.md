@@ -18,7 +18,7 @@ A website where students can buy and sell used items within the campus.
 - GitHub
 
 ## Future Enhancements
-- Better UI
+- Better UI 
   
 ## Team Members
 - Tejaswini C
