@@ -32,8 +32,11 @@ Help students buy and sell items within campus
 - Vaishnavi
 - Sahana S
 
-
 ## How to Run
 1. Download or clone the repository.
 2. Open the project in VS Code.
 3. Open `index.html` using Live Server.
+
+## Status
+Project Completed Successfully
+
